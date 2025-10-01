@@ -2,6 +2,7 @@
 .vscode/
 .idea/
 
+
 # Intermediate Coverage file
 .coverage
 
@@ -15,4 +16,5 @@
 
 # Virtual environments
 venv/
+__pycache__/
 .venv/
