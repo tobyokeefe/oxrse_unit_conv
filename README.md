@@ -1,4 +1,4 @@
-# Oxford RSE Toby O'KEEFE  Unit Conversion
+# Oxford RSE Toby O'KEEFE & Ava Keeling Unit Conversion
 
 [![Unittest](https://github.com/OxfordRSE/oxrse_unit_conv/actions/workflows/unittest.yml/badge.svg)](https://github.com/OxfordRSE/oxrse_unit_conv/actions/workflows/unittest.yml)
 
